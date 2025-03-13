@@ -1,32 +1,69 @@
 {
-  "students": [
+  "users": [
     {
-      "id": "2",
-      "name": "Saikrishna"
+      "id": "6cd8",
+      "username": "Rakesh",
+      "message": "now or never"
     },
     {
-      "name": "Vinay Raju",
-      "id": "4"
+      "id": "799a",
+      "username": "dell",
+      "message": "best laptop"
     },
     {
-      "id": "5d2a",
-      "name": "Ramu"
+      "id": "7d5b",
+      "username": "dhoni",
+      "message": "worldcup winner"
     },
     {
-      "id": "22c2",
-      "name": "Again"
+      "id": "9e23",
+      "username": "Albert Einstein",
+      "message": "Life is like riding a bicycle. To keep your balance, you must keep moving."
     },
     {
-      "id": "1802",
-      "name": "Alekhya"
+      "id": "d60d",
+      "username": "Steve Jobs",
+      "message": "Your time is limited, so don’t waste it living someone else’s life."
     },
     {
-      "id": "84ba",
-      "name": "Ishwarya"
+      "id": "032d",
+      "username": "Eleanor Roosevelt",
+      "message": "The future belongs to those who believe in the beauty of their dreams."
     },
     {
-      "id": "030a",
-      "name": "Sai Nath"
+      "id": "a94c",
+      "username": "Bruce Lee",
+      "message": "Knowing is not enough, we must apply. Willing is not enough, we must do."
+    },
+    {
+      "id": "4180",
+      "username": "Leonardo da Vinci",
+      "message": "Learning never exhausts the mind."
+    },
+    {
+      "id": "d491",
+      "username": "Aristotle",
+      "message": "We are what we repeatedly do. Excellence, then, is not an act, but a habit."
+    },
+    {
+      "id": "c25f",
+      "username": "shiva",
+      "message": "super ra bittu"
+    },
+    {
+      "id": "5d4e",
+      "username": "suram shiva krishna",
+      "message": "namaste jaava script "
+    },
+    {
+      "id": "7d4f",
+      "username": "fjbkdfjbfjnfjnfjnblfjnbfljbgljb",
+      "message": "kjkjbdkjdbjdnvlksdnvd"
+    },
+    {
+      "id": "508a",
+      "username": "lgGram",
+      "message": "lite weight laptop"
     }
   ]
 }
